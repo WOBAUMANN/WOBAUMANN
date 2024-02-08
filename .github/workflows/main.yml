@@ -14,4 +14,4 @@ jobs:
           # You can target a project in a different organization
           # to the issue
           project-url: https://github.com/users/WOBAUMANN/projects/2/
-          github-token: ${{ secrets.ADD_TO_PROJECT_PAT }}
+          github-token: ${{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}}
